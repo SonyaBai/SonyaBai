@@ -33,5 +33,8 @@ Business website redesign featuring responsive design, lead generation, SEO impr
 - QA Analyst
 - Data Analyst
 - Product Tester
+- Customer Success Manager
+- Project Manager
+  
 
 📍 Highlands Ranch, Colorado
